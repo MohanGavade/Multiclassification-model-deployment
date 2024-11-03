@@ -1,4 +1,4 @@
-# Multiclassification
+# Multiclassification and model deployment
 Classification of food types
 
 To detect food types in an image using efficient net and VIT transformer deep learning architecture and deploy on gradio app and hugging face.
