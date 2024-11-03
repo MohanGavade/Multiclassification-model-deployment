@@ -1,6 +1,19 @@
 # Multiclassification and model deployment
-Classification of food types
+## Food Type Classification with Deep Learning 🍕🥗🍣
 
-To detect food types in an image using efficient net and VIT transformer deep learning architecture and deploy on gradio app and hugging face.
+### Overview
+This project focuses on the **multiclass classification** of food types using advanced deep learning architectures, including **EfficientNet** and **Vision Transformer (ViT)**. The objective is to accurately detect and classify various food items in images and deploy the trained models as interactive applications.
 
-Softwares used: Python, PyTorch, Numpy, Matplotlib, Hugging face, Gradio
+### Key Features
+- **Multiclass Classification**: The model can recognize and classify multiple food types, suitable for various applications.
+- **Model Deployment**: 
+  - **Gradio**: Create an interactive web application that allows users to upload images and receive instant food type classifications.
+  - **Hugging Face**: Host the trained models on Hugging Face's platform, making them easily accessible for others and allowing for straightforward integration into other applications.
+
+### Technologies Used
+- **Programming Language**: Python
+- **Libraries**: 
+  - **PyTorch** for model training and development.
+  - **NumPy** and **Matplotlib** for data manipulation and visualization.
+  - **Gradio** for building the user interface.
+  - **Hugging Face** for model hosting and deployment.
